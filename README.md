@@ -22,8 +22,8 @@ Entre em contato:</p>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonCavalcanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="180" alt="languages graph"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvisoncavalcanti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisoncavalcanti&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000"/> 
 </div>
 
 ###
@@ -57,65 +57,6 @@ Entre em contato:</p>
 
 </div>
 
------------
 
-<h1 align="center">ddddd(https://git.io/typing-svg)(https://git.io/typing-svg)</h1>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonCavalcanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/dayvison-cavalcanti" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dayvisonlpc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="dayvisonpaiva8@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DayvisonCavalcanti/DayvisonCavalcanti/output/snake.svg" alt="Snake animation" />
-
-###
 
 
