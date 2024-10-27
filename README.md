@@ -2,7 +2,7 @@
 <!--<img src="https://github.com/DayvisonCavalcanti/readmeImg/blob/main/%E2%80%94Pngtree%E2%80%9425d%20business%20technology%20computer%20finance_5780233.png" width="260px" align="right" alt="computador marianatheml">-->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8B67DB&width=500&lines=Olá!+Meu nome+é+Dayvison+Cavalcanti" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=086cfc&width=500&lines=Olá!+Meu nome+é+Dayvison+Cavalcanti" alt="Typing SVG" />
 - 👩🏽‍💻 Sou estudante do curso Tecnólogo em Análise e Desenvolvimento de Sistemas IFPE Jaboatão.<br>
 - 💻 Técnico em Radiologia Grau Técnico.
 <br>
@@ -10,7 +10,7 @@ Entre em contato:</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/dayvison-cavalcanti" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB" width="200" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=086cfc" width="200" alt="LinkedIn Badge">
   </a>
 </div>
    
@@ -22,8 +22,8 @@ Entre em contato:</p>
 ###
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvisoncavalcanti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisoncavalcanti&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvisoncavalcanti&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisoncavalcanti&layout=compact&theme=transparent&hide_border=true&langs_count=10&bg_color=00000000"/> 
 </div>
 
 ###
