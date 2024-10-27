@@ -23,6 +23,11 @@ Entre em contato:</p>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="180" alt="stats graph"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonCavalcanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="180" alt="languages graph"  />
+
+  <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayvisonCavalcanti&layout=compact&theme=nightowl&hide_border=true&langs_count=10"/> 
+</div>
 </div>
 
 ##
