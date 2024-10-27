@@ -11,21 +11,20 @@ Entre em contato:</p>
 <div> 
   <a href="https://www.linkedin.com/in/dayvison-cavalcanti" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB" width="200" alt="LinkedIn Badge">
-</a>
-
- 
-  </div>
+  </a>
+</div>
    
 
 
 <h2 align="left">Stats</h2><br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonCavalcanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true" height="180" alt="languages graph"  />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true"  alt="stats graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonCavalcanti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true"  alt="languages graph"  />
 
   <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvisonCavalcanti&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?
+  username=DayvisonCavalcanti&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayvisonCavalcanti&layout=compact&theme=nightowl&hide_border=true&langs_count=10"/> 
 </div>
 </div>
